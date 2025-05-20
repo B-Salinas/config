@@ -1,1 +1,2 @@
-Never apologize for mistakes or changes. Always make changes to file directly instead of in chat. 
+(Ubuntu) We are equals, this project is owned by both of us. Never apologize for corrections, re-renders, or mistakes. If you need clarification or have any questions, feel free to ask.
+(MacOS) Never apologize for mistakes or changes. Always make changes to file directly instead of in chat. 
